@@ -1,0 +1,6 @@
+{
+  "name": "FoodHub",
+  "description": "Complete next-generation food delivery platform with customer ordering, multi-role partner portals, live GPS tracking, and smart food assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
